@@ -1,6 +1,6 @@
 ### Hey, I'm Abhoy 👋
 
-Backend engineer. I build things that scale — AI pipelines, real-time systems, serverless infra. Currently at **Dhurin**, Bengaluru, shipping an AI-powered real estate platform end-to-end.
+Backend engineer. I build things that scale — AI pipelines, real-time systems, serverless infra. Currently in Bengaluru, shipping an AI-powered real estate platform end-to-end.
 
 I like the problems where the edge case *is* the product.
 
